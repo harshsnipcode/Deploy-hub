@@ -1,0 +1,9 @@
+node_modules/
+dist/
+server/public/
+.env
+*.log
+*.err
+.DS_Store
+*.tsbuildinfo
+/vercel-main/
