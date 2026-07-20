@@ -3,6 +3,7 @@
 One-click deployment platform. Enter a GitHub repo URL, get a live website instantly.
 
 ## Live Link
+https://deploy-hub-1.onrender.com/
 
 ## Architecture
 
